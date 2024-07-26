@@ -1,0 +1,33 @@
+#calculator{
+    height: 300px;
+    width: 250px;
+    border: 1px solid black;
+    background-color: #f8e3d4;
+}
+
+#display-container{
+    height: 25%;
+    width: 90%;
+    border: 1px solid black;
+    margin: 11px;
+    padding: 1px;
+    border-radius: 2px;
+    background-color: #ead8d8;
+
+}
+.button{
+    display: inline-block;
+    height: 40px;
+    width: 48px;
+    border: 1px solid black;
+    margin: 2px;
+    padding: 1px;
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 3px;
+    background-color: #b39393;
+
+}
+#keypad{
+    margin: 7px;
+}
